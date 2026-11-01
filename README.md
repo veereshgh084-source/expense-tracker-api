@@ -38,7 +38,7 @@ pip install fastapi uvicorn
 
 4. Run the application:
 
-uvicorn main:app --reload
+python -m uvicorn main:app --reload
 
 🔗 API Documentation
 
